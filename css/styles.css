@@ -13,11 +13,10 @@
 
 .intro {
   float: right;
-  width: 75%;
+
   text-align: left;
   font: weight 5px;
   font-size: 15;
-
   margin: 12px;
   border: 5px solid black;
   border-radius: 15px;
@@ -33,17 +32,10 @@
   font-size: 65;
 }
 
-.top-container {
-  float: center;
-  font-size: 120%;
-  text-align: center;
 
 
-}
 
-.more-about-me {
-  float: right;
-}
+
 
 .picture-box {
   float: left;
@@ -56,7 +48,25 @@
 
 }
 
+.more-about-me {
+  float: right;
+  font-size: 120%;
+  text-align: left;
+  float: right;
+  margin: 10px;
+  border: 5px solid black;
+  border-radius: 15px;
+  padding: 4px;
+  background-color: rgb(4, 6, 128);
+  width: 45%;
+  S
+}
+
 .project-box {
   float: left;
-  width: 45%
+  width: 45% margin: 10px;
+  border: 5px solid black;
+  border-radius: 15px;
+  padding: 4px;
+  background-color: rgb(4, 6, 128);
 }
