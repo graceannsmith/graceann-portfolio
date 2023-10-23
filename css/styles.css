@@ -1,29 +1,62 @@
+@import url ('https://fonts.google.com/specimen/Alata?sidebar.open=true&selection.family=Alata');
+
+* {
+  padding: 0;
+  list-style: none;
+  font-family: 'Alata', sans-serif;
+}
+
+
 .everything {
-  background-color: lightslategray;
+  background: linear-gradient(#CF1C68, #F10C0C);
 }
 
 .intro {
-  text-align: center;
-  text-color: red;
-
-  font-styles: sans-serif;
-  font: weight 5px;
-  ;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 25;
-  line-height: 2;
-
-}
-
-.right-container {
   float: right;
+  width: 75%;
+  text-align: left;
+  font: weight 5px;
+  font-size: 15;
+
   margin: 12px;
-  border: 2px solid green;
+  border: 5px solid black;
+  border-radius: 15px;
   padding: 4px;
-  background-color: orange;
-  width: 25%;
+  background-color: rgb(4, 6, 128);
+  width: 70%;
+
 }
 
-.picture-box {}
+.name {
+  text-size: 135%;
+  text-align: center;
+  font-size: 65;
+}
 
-] .left-box {}
+.top-container {
+  float: center;
+  font-size: 120%;
+  text-align: center;
+
+
+}
+
+.more-about-me {
+  float: right;
+}
+
+.picture-box {
+  float: left;
+  margin: 10px;
+  border: 5px solid black;
+  border-radius: 15px;
+  padding: 4px;
+  background-color: rgb(4, 6, 128);
+
+
+}
+
+.project-box {
+  float: left;
+  width: 45%
+}
