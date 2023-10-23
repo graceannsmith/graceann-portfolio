@@ -13,7 +13,6 @@
 
 .intro {
   float: right;
-
   text-align: left;
   font: weight 5px;
   font-size: 15;
@@ -32,11 +31,6 @@
   font-size: 65;
 }
 
-
-
-
-
-
 .picture-box {
   float: left;
   margin: 10px;
@@ -44,8 +38,6 @@
   border-radius: 15px;
   padding: 4px;
   background-color: rgb(4, 6, 128);
-
-
 }
 
 .more-about-me {
@@ -56,10 +48,9 @@
   margin: 10px;
   border: 5px solid black;
   border-radius: 15px;
-  padding: 4px;
+  padding: 8px;
   background-color: rgb(4, 6, 128);
   width: 45%;
-  S
 }
 
 .project-box {
@@ -67,6 +58,6 @@
   width: 45% margin: 10px;
   border: 5px solid black;
   border-radius: 15px;
-  padding: 4px;
+  padding: 8px;
   background-color: rgb(4, 6, 128);
 }
