@@ -1,3 +1,29 @@
 .everything {
-  background-color: blue;
+  background-color: lightslategray;
 }
+
+.intro {
+  text-align: center;
+  text-color: red;
+
+  font-styles: sans-serif;
+  font: weight 5px;
+  ;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25;
+  line-height: 2;
+
+}
+
+.right-container {
+  float: right;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+  width: 25%;
+}
+
+.picture-box {}
+
+] .left-box {}
