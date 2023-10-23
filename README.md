@@ -13,7 +13,7 @@
 
 ## Description
 
-_A hance to show future empoyers my skills as they develope_
+https://github.com/graceannsmith/graceann-portfolio.git
 
 ## Setup/Installation Requirements
 
