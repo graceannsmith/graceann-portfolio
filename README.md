@@ -11,10 +11,12 @@
 * CSS
 
 
-## Description
+## GitHub Page Links
 
-https://github.com/graceannsmith/graceann-portfolio.git
-graceannsmith.github.io/graceann-portfolio
+[Portfolio Github Page] 
+(https://github.com/graceannsmith/graceann-portfolio.git)
+[Portfolio Page] 
+(https://graceannsmith.github.io/graceann-portfolio)
 
 ## Setup/Installation Requirements
 
